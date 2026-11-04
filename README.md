@@ -74,4 +74,5 @@ Tune Random Forest hyperparameters (for example max_depth, min_samples_leaf) wit
 Add features such as city or region, if available
 👩‍💻 Author
 
-Krishi, B.Tech CSE (Data Science minor), Lovely Professional Universi
+Krishi, B.Tech CSE (Data Science minor), Lovely Professional University
+
